@@ -2,6 +2,11 @@
 
 Простое приложение для управления задачами (Todo List), построенное на React с TypeScript и Zustand для управления состоянием.
 
+##  Ссылки
+
+- **Live Demo**: https://todo-react-psi-teal.vercel.app/
+
+
 ##  Технологии
 
 - **React 19** - UI библиотека
@@ -29,4 +34,4 @@
 
 ### Установка зависимостей
 ```bash
-npm install
+  npm install
